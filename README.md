@@ -9,4 +9,8 @@ Meu nome é Adrielly dos Santos Aguilar
   ### Você entrar em contato comigo 📫
 
   00001068473848sp@al.educacao.sp.gov.br
+  
   @dri_stsx
+
+
+  https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif
