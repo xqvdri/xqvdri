@@ -2,7 +2,7 @@
 
 Meu nome é Adrielly dos Santos Aguilar 
 
-- Eu estou estudando na Alura
+- Eu estou estudando na [Alura](https//www.alura.com.br)
 - Estou me desenvolvendo na lingugem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,5 @@ Meu nome é Adrielly dos Santos Aguilar
   
   @dri_stsx
 
+![](https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif)
 
-  https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif
